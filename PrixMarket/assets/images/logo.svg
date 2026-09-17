@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="brandGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E7A4A" />
+      <stop offset="100%" stop-color="#095332" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBBF24" />
+      <stop offset="100%" stop-color="#F59E0B" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="44" fill="url(#brandGrad)"/>
+  <!-- Stylized Basket / Scale / Spark of intelligence -->
+  <path d="M45 85 L155 85 L140 145 C138 152 130 158 120 158 L80 158 C70 158 62 152 60 145 Z" fill="#ffffff" fill-opacity="0.95"/>
+  <path d="M40 75 Q100 45 160 75" stroke="#ffffff" stroke-width="9" stroke-linecap="round" fill="none"/>
+  <!-- Rising chart / grain / AI spark -->
+  <path d="M75 130 L95 105 L115 118 L135 95" stroke="#0E7A4A" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="135" cy="95" r="6" fill="#F59E0B"/>
+  <!-- Sun / Spark AI in corner -->
+  <circle cx="150" cy="50" r="14" fill="url(#accentGrad)"/>
+  <path d="M150 30 L150 36 M150 64 L150 70 M130 50 L136 50 M164 50 L170 50" stroke="#F59E0B" stroke-width="4" stroke-linecap="round"/>
+</svg>
